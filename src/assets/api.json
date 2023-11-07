@@ -1,0 +1,82 @@
+[
+    {
+        "metadata": {
+            "tags": []
+        },
+        "sys": {
+            "space": {
+                "sys": {
+                    "type": "Link",
+                    "linkType": "Space",
+                    "id": "87emmjul9hhj"
+                }
+            },
+            "id": "5JbIpSu3BH4TL4OYeIWgaC",
+            "type": "Entry",
+            "createdAt": "2023-11-07T18:14:01.119Z",
+            "updatedAt": "2023-11-07T18:14:01.119Z",
+            "environment": {
+                "sys": {
+                    "id": "dev",
+                    "type": "Link",
+                    "linkType": "Environment"
+                }
+            },
+            "revision": 1,
+            "contentType": {
+                "sys": {
+                    "type": "Link",
+                    "linkType": "ContentType",
+                    "id": "channel"
+                }
+            },
+            "locale": "en-US"
+        },
+        "fields": {
+            "name": "managedContent",
+            "targetPath": "/api",
+            "objectsReference": [
+                {
+                    "metadata": {
+                        "tags": []
+                    },
+                    "sys": {
+                        "space": {
+                            "sys": {
+                                "type": "Link",
+                                "linkType": "Space",
+                                "id": "87emmjul9hhj"
+                            }
+                        },
+                        "id": "6ers4j0VxmdBYmW1Ht2KYM",
+                        "type": "Entry",
+                        "createdAt": "2023-11-07T18:13:11.768Z",
+                        "updatedAt": "2023-11-07T18:13:11.768Z",
+                        "environment": {
+                            "sys": {
+                                "id": "dev",
+                                "type": "Link",
+                                "linkType": "Environment"
+                            }
+                        },
+                        "revision": 1,
+                        "contentType": {
+                            "sys": {
+                                "type": "Link",
+                                "linkType": "ContentType",
+                                "id": "signInPage"
+                            }
+                        },
+                        "locale": "en-US"
+                    },
+                    "fields": {
+                        "systemName": "Sign In Page",
+                        "severity": "Critical",
+                        "englishContent": "<b style='color:red;'>[MOBILE Phase3] </b> | English | Sign In | Info Banner | GREEN\n\nRefine your search with our <a href=https://www.bmo.com/main/personal/bmo-branches-coronavirus-update/contact-centre-support-tool/?icid=tl-FEAT2321BRND1-RHBMO16 target=\"_blank\"> Online Support Tool</a>. <br><br>",
+                        "frenchContent": "<b style='color:red;'>[MOBILE Phase2] </b> | French | Sign In | Info Banner | GREEN\n\nRefine your search with our <a href=https://www.bmo.com/main/personal/bmo-branches-coronavirus-update/contact-centre-support-tool/?icid=tl-FEAT2321BRND1-RHBMO16 target=\"_blank\"> Online Support Tool</a>. <br><br>"
+                    }
+                }
+            ]
+        }
+    }
+]
